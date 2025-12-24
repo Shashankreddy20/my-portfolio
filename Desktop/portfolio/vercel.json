@@ -1,0 +1,5 @@
+{
+  "name": "portfolio-vercel",
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist"
+}

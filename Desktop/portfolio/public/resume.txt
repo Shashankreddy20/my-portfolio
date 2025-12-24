@@ -1,0 +1,98 @@
+BOKKA SHASHANK
+Computer Science Engineering Student | Cloud & AI Enthusiast
++91 9999999999 | shashank@example.com | LinkedIn | GitHub
+
+PROFESSIONAL SUMMARY
+Passionate Computer Science Engineering student with strong foundation in C++, Python, and JavaScript.
+Enthusiastic about cloud computing and artificial intelligence with hands-on experience in building scalable applications.
+Proven problem-solving abilities and strong team collaboration skills.
+
+TECHNICAL SKILLS
+Languages: C++, Python, JavaScript, C, HTML, CSS
+Frameworks & Libraries: React.js, Express.js, Vite, Tailwind CSS, Framer Motion
+Databases & Tools: MySQL, Docker, AWS, Git, Linux
+Platforms: Apache CloudStack, AWS Console
+Soft Skills: Problem Solving, Team Collaboration, Communication, Adaptability, Rational Thinking
+
+EDUCATION
+B.Tech Computer Science Engineering
+Lovely Professional University (2023 - 2027)
+CGPA: 6.0
+Key Courses: Data Structures, Algorithms, Database Management, Web Development
+
+Intermediate (12th Grade)
+Narayana College (2021 - 2023)
+Percentage: 98%
+
+School (10th Grade)
+Abhyas High School (2006 - 2021)
+Percentage: 85%
+
+PROFESSIONAL EXPERIENCE
+
+Summer Internship - Ticket Booking System
+March 2025 - Present
+• Developed a comprehensive ticket booking system using C++ with queue and stack data structures
+• Implemented error handling and menu-driven user interface
+• Applied practical knowledge of data structures in real-world scenarios
+• Enhanced problem-solving and coding skills
+
+NGO Internship - Old Age Home Community Service
+June 2024 - July 2024
+• Volunteered for community development and social responsibility initiatives
+• Provided care and support to elderly residents
+• Developed empathy and understanding of social needs
+• Collaborated with team members in a service-oriented environment
+
+PROJECTS
+
+Ticket Booking System
+• Queue for ticket requests and stack for cancellations
+• Robust error handling with user-friendly interface
+• Technologies: C++, Data Structures
+• GitHub: [Link to repository]
+
+AI Chatbot
+• NLP-based chatbot with rule-based responses
+• Natural language processing using NLTK
+• Technologies: Python, NLTK, NLP
+• GitHub: [Link to repository]
+
+OS-Based Resource Management System (IoT)
+• Intelligent resource management for IoT devices
+• Scheduling optimization and power management
+• Data synchronization and energy-efficient design
+• Technologies: C++, IoT, Linux
+
+Personal Portfolio Website
+• Modern, responsive portfolio built with React and Tailwind CSS
+• Dark mode support and smooth animations
+• Technologies: React, Tailwind CSS, Framer Motion, Vite
+
+Database Management System
+• CRUD operations and SQL optimization
+• Database design with data integrity
+• Technologies: MySQL, SQL, C++
+
+Cloud Infrastructure Project
+• Docker containerization and AWS deployment
+• Cloud resource management and scaling
+• Technologies: Docker, AWS, Linux
+
+CERTIFICATIONS
+• Oracle Cloud Infrastructure 2025 – Generative AI
+• Build Generative AI Apps with No-Code Tools
+• ChatGPT Made Easy – AI Essentials
+
+ACHIEVEMENTS
+• 3rd Rank – Hackathon, Lovely Professional University (2024)
+• 2nd Place – Quiz Competition, Lovely Professional University (2024)
+
+INTERESTS & VALUES
+• Cloud Computing, Artificial Intelligence, Machine Learning
+• System Design, Data Structures, and Algorithms
+• Continuous Learning, Problem Solving, Team Collaboration
+• Rational Thinking and Adaptability
+
+---
+This is a placeholder resume. Replace with your actual resume PDF in the public folder.
